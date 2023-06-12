@@ -29,7 +29,7 @@ const AboutMe = () => {
       <h2>Bootstrap Responsive Website</h2>
       <p>Bootstrap is a famous front-end framework used to create mobile-first responsive websites. The latest release
         version of bootstrap has removed JQuery dependency not fully work on vanilla javascript.</p>
-      <p>Using bootstrap it becomes very easy to build a responsive website.</p>
+      <p>By Using bootstrap it becomes very easy to build a responsive website.</p>
     </div>
   </div>
 </div>
